@@ -1,5 +1,6 @@
 # Making a Sandwich
 
+```
 1 Plan the Sandwich  
   1.1 Decide on an overall sandwich type  
   1.2 Choose individual ingredients  
@@ -63,3 +64,4 @@
   6.2 Clean and store utensils and tools  
   6.3 Wipe down kitchen counter  
   6.4 Vacuum kitchen floor  
+```
