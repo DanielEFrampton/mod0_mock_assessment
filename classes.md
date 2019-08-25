@@ -1,3 +1,6 @@
+# Example Class
+
+```
 Class: Plant
 
 Attributes:
@@ -14,3 +17,4 @@ killPlant (changes plantIsAlive to false)
 growToAdultHeight (changes currentHeightInInches to equal value of adultHeightInInches)
 growNewStalk (increments numberOfStalks by 1)
 scientificName (returns concatenated strings of genus + species)
+```
